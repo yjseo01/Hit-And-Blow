@@ -1,0 +1,12 @@
+C:\Users\yujin\Desktop\학교\HitAndBlow\Hit-And-Blow\bin\Debug\HitAndBlow.exe.config
+C:\Users\yujin\Desktop\학교\HitAndBlow\Hit-And-Blow\bin\Debug\HitAndBlow.exe
+C:\Users\yujin\Desktop\학교\HitAndBlow\Hit-And-Blow\bin\Debug\HitAndBlow.pdb
+C:\Users\yujin\Desktop\학교\HitAndBlow\Hit-And-Blow\obj\Debug\HitAndBlow.csproj.AssemblyReference.cache
+C:\Users\yujin\Desktop\학교\HitAndBlow\Hit-And-Blow\obj\Debug\HitAndBlow.csproj.SuggestedBindingRedirects.cache
+C:\Users\yujin\Desktop\학교\HitAndBlow\Hit-And-Blow\obj\Debug\HitAndBlow.OneToOneMode.resources
+C:\Users\yujin\Desktop\학교\HitAndBlow\Hit-And-Blow\obj\Debug\HitAndBlow.PracticeMode.resources
+C:\Users\yujin\Desktop\학교\HitAndBlow\Hit-And-Blow\obj\Debug\HitAndBlow.Properties.Resources.resources
+C:\Users\yujin\Desktop\학교\HitAndBlow\Hit-And-Blow\obj\Debug\HitAndBlow.csproj.GenerateResource.cache
+C:\Users\yujin\Desktop\학교\HitAndBlow\Hit-And-Blow\obj\Debug\HitAndBlow.csproj.CoreCompileInputs.cache
+C:\Users\yujin\Desktop\학교\HitAndBlow\Hit-And-Blow\obj\Debug\HitAndBlow.exe
+C:\Users\yujin\Desktop\학교\HitAndBlow\Hit-And-Blow\obj\Debug\HitAndBlow.pdb
